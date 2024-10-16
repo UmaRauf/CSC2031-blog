@@ -1,0 +1,15 @@
+flask
+WTForms
+Flask-WTF
+email_validator
+python-dotenv
+flask_sqlalchemy
+app
+SQLAlchemy
+Flask-Login
+werkzeug==2.3.7
+pyotp
+flask-qrcode
+Markup
+MarkupSafe
+Jinja2
