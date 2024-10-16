@@ -1,4 +1,4 @@
-This project was used for educational purposes and thus was used as an example for many changes. some functions may or may not work
+This project was used for educational purposes and thus was used as an example for many changes. some functions may be outdated.
 
 How to run
 
